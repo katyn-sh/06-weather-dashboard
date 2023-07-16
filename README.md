@@ -12,4 +12,4 @@ https://github.com/katyn-sh/06-weather-dashboard
 This is the direct link to the deployed dashboard:
 https://katyn-sh.github.io/06-weather-dashboard/
 
-[dashboardScrot](./assets/weatherScrot.png)
+![dashboardScrot](./assets/weatherScrot.png)
